@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-background text-secondary-900 antialiased;
+    }
+}
+
+/* Dark mode date picker icon fix */
+.dark ::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}

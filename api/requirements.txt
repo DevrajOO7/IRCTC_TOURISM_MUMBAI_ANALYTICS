@@ -1,0 +1,14 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-CORS
+Flask-Caching
+psycopg2-binary
+SQLAlchemy
+python-dotenv
+Werkzeug
+openpyxl
+bcrypt
+python-dateutil
+requests
+waitress
