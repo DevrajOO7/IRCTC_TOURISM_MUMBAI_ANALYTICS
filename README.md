@@ -4,7 +4,7 @@
 
 ### Enterprise Passenger Analytics & Predictive Intelligence Platform
 
-RAILSIGHTS is a full-stack enterprise analytics system engineered to manage and analyze **150,000+ passenger records** for large-scale tourism operations.
+RAILSIGHTS is a full-stack enterprise analytics system engineered to manage and analyze **15,00,000+ passenger records** for large-scale tourism operations.
 
 The platform combines high-performance backend processing, secure role-based access control, and AI-driven forecasting to deliver real-time business intelligence dashboards and predictive insights.
 
@@ -12,7 +12,7 @@ The platform combines high-performance backend processing, secure role-based acc
 
 ## 🏆 Key Impact Highlights
 
-* 📊 Processed and optimized **150k+ passenger records** with server-side pagination and indexed queries
+* 📊 Processed and optimized **1500k+ passenger records** with server-side pagination and indexed queries
 * ⚡ Reduced dashboard data load time using efficient REST architecture
 * 🔐 Implemented secure **JWT-based RBAC system** (Admin / Manager / Viewer)
 * 📈 Built real-time analytics dashboards with dynamic visualizations
@@ -87,7 +87,6 @@ SQLite (Dev) / PostgreSQL (Prod)
 * Tailwind CSS
 * Recharts
 * Lucide React
-* Axios
 
 ### Backend
 
@@ -187,9 +186,3 @@ MIT License
 
 ---
 
-If you'd like next, I can:
-
-* 🔥 Convert this into a **1-page resume project description**
-* 🎯 Write powerful **resume bullet points (ATS optimized)**
-* 🧠 Help you prepare **interview answers** for architecture & design
-* 🏗 Create a **System Design explanation** for interviews
