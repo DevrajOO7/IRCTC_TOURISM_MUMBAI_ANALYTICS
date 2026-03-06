@@ -19,7 +19,28 @@ The platform combines high-performance backend processing, secure role-based acc
 * 🧠 Designed predictive modeling module for seasonal demand forecasting
 * 🕵️ Developed enterprise-grade audit logging for compliance & traceability
 * 🌙 Built fully responsive dark/light UI with system sync
+---
 
+# 📸 Application Screens
+
+* Authentication & Role Management
+<img src="image_output/login.png" alt="ArtNexus Banner" width="100%"/>
+<img src="image_output/myprofile.png" alt="ArtNexus Banner" width="100%"/>
+* Executive Analytics Dashboard
+<img src="image_output/analytics.png" alt="ArtNexus Banner" width="100%"/>
+<img src="image_output/analytics2.png" alt="ArtNexus Banner" width="100%"/>
+* Passenger Management System
+<img src="image_output/passenger_list.png" alt="ArtNexus Banner" width="100%"/>
+* Predictive Target Analytics
+<img src="image_output/advance_target.png" alt="ArtNexus Banner" width="100%"/>
+* Audit Logs & Compliance View
+<img src="image_output/audit_logs.png" alt="ArtNexus Banner" width="100%"/>
+<img src="image_output/audit_user_analytics.png" alt="ArtNexus Banner" width="100%"/>
+* Data Export & Reporting
+<img src="image_output/exportdata.png" alt="ArtNexus Banner" width="100%"/>
+* User Management
+<img src="image_output/users.png" alt="ArtNexus Banner" width="100%"/>
+---
 ---
 
 # 🧩 System Architecture
@@ -150,28 +171,7 @@ Frontend runs on:
 | ----- | -------- | -------- |
 | Admin | admin    | admin123 |
 
----
 
-# 📸 Application Screens
-
-* Authentication & Role Management
-<img src="image_output/login.png" alt="ArtNexus Banner" width="100%"/>
-<img src="image_output/myprofile.png" alt="ArtNexus Banner" width="100%"/>
-* Executive Analytics Dashboard
-<img src="image_output/analytics.png" alt="ArtNexus Banner" width="100%"/>
-<img src="image_output/analytics2.png" alt="ArtNexus Banner" width="100%"/>
-* Passenger Management System
-<img src="image_output/passenger_list.png" alt="ArtNexus Banner" width="100%"/>
-* Predictive Target Analytics
-<img src="image_output/advance_target.png" alt="ArtNexus Banner" width="100%"/>
-* Audit Logs & Compliance View
-<img src="image_output/audit_logs.png" alt="ArtNexus Banner" width="100%"/>
-<img src="image_output/audit_user_analytics.png" alt="ArtNexus Banner" width="100%"/>
-* Data Export & Reporting
-<img src="image_output/exportdata.png" alt="ArtNexus Banner" width="100%"/>
-* User Management
-<img src="image_output/users.png" alt="ArtNexus Banner" width="100%"/>
----
 
 # 📄 License
 
